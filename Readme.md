@@ -2,10 +2,6 @@
 
 HashNotes is a dynamic web application designed for personal and collaborative note-taking. It features a visually appealing and user-friendly interface, supporting seamless note management with advanced functionalities.
 
-## Live Demo
-
-Check out the live demo of HashNotes [here](https://hashnotes-eight.vercel.app/).
-
 ## Features
 
 - **Responsive Design:** Fully responsive design with switchable dark and light themes.
@@ -25,27 +21,6 @@ Check out the live demo of HashNotes [here](https://hashnotes-eight.vercel.app/)
 - **Deployment:** Vercel
 - **APIs:** RESTful APIs
 - **Other:** CSS, JavaScript, Postman
-
-## Screenshot
-
-**Welcome to HashNotes**
-![Home page](/media/home_page.png)
-
-**Go to SignUp page and create a user**
-![Create a user](/media/signup_page.png)
-
-**This is the Dashboard where you can add, edit, delete, pin and view your notes**
-![Dashboard](/media/dashboard.png)
-
-**Add your first note here, feel free explore all the content options in the rich text editor**
-![Add Notes](/media/add_notes.png)
-![Note Added](/media/note_added.png)
-
-**You can edit your notes anytime just with a double click**
-![Edit Notes](/media/edit_notes.png)
-
-**You switch between light and dark themes anytime just with a click**
-![Switch Themes](/media/dark_mode.png)
 
 ## Getting Started
 
@@ -101,23 +76,5 @@ To get started with HashNotes locally, follow these steps:
 5. **Access the application:**
 - Open your browser and go to http://localhost:5173 to see the application in action.
 
-## Contribution
 
-**Contributions are welcome! If you'd like to contribute to HashNotes, please follow these steps:**
 
-- Fork the repository.
-- Create a new branch (git checkout -b feature-branch).
-- Make your changes.
-- Commit your changes (git commit -m 'Add some feature').
-- Push to the branch (git push origin feature-branch).
-- Open a pull request.
-
-## Future Scope
-
-Currently working on creating an extension for **HashNotes** which would allow users to add note from any webpage directly to to their HashNotes account.
-
-## Contact
-If you have any questions or suggestions, feel free to reach out:
-
-Email: sameermaroof26@gmail.com
-LinkedIn: [Connect here](https://www.linkedin.com/in/sameer-ahmad-maroof/)
